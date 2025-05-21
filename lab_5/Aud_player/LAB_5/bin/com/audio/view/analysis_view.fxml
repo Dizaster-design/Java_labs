@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TextArea?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.audio.controller.AnalysisController" spacing="10" style="-fx-padding: 20;">
+    <TextArea fx:id="analysisArea" editable="false" wrapText="true" prefHeight="300"/>
+</VBox>

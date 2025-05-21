@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="model/|controller/|util/" kind="src" path="JavaFXAudioPlayer/src/main/java/com/audio"/>
+	<classpathentry kind="src" path="JavaFXAudioPlayer/src/main/java/com/audio/controller"/>
+	<classpathentry kind="src" path="JavaFXAudioPlayer/src/main/java/com/audio/model"/>
+	<classpathentry kind="src" path="JavaFXAudioPlayer/src/main/java/com/audio/util"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

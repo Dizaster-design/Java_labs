@@ -1,0 +1,28 @@
+.main-container {
+    -fx-background-color: #000000;
+    -fx-padding: 200;
+}
+
+.text-field {
+    -fx-pref-width: 300px;
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: #888;
+    -fx-background-color: #222;
+    -fx-border-color: #444;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #444;
+    -fx-text-fill: white;
+    -fx-padding: 10 20 10 20;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #666;
+}

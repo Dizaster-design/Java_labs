@@ -1,0 +1,5 @@
+1. Откройте Eclipse.
+2. File → Import → Existing Projects into Workspace.
+3. Выберите папку проекта "JavaFXAudioPlayer".
+4. Убедитесь, что установлен JavaFX SDK.
+5. Запустите Main.java как JavaFX Application.
